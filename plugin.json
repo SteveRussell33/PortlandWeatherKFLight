@@ -1,0 +1,19 @@
+{
+	"slug": "PortlandWeatherKFLight",
+	"name": "KlirrFactory",
+	"version": "2.0.0",
+	"author": "KlirrFactory",
+	"license": "GPL-3.0-only",
+	"authorEmail": "info@klirrfactory.com",
+  	"authorUrl": "http://www.klirrfactory.com",
+  	"pluginUrl": "http://www.klirrfactory.com",
+  	"manualUrl": "https://www.youtube.com/TheKlirrfaktor",
+	"modules": [
+		{
+			"slug": "PortlandWeatherKFLight",
+			"name": "Portland Weather KF (Light)",
+			"description": "8 tap rhythmic delay with per tap pitch shifting and filtering",
+			"tags": ["Delay", "Granular", "Filter"]
+		}
+	]
+}
